@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+cards:
+  message: "Welcome to EazyBank Cards related local APIs"
+  contactDetails:
+    name: "Andrew Jones - Team Lead"
+    email: "andrew.jones@eazybank.com"
+  onCallSupport:
+    - (+234) 802-333-1234
+    - (+234) 803-333-1234

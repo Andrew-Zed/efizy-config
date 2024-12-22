@@ -1,0 +1,12 @@
+build:
+  version: "2.0"
+
+
+loans:
+  message: "Welcome to EazyBank Loans related QA APIs"
+  contactDetails:
+    name: "Jane Doe - Team Lead"
+    email: "jane.doe@example.com"
+  onCallSupport:
+    - (+234) 802-2222-567
+    - (+234) 803-2222-456

@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+cards:
+  message: "Welcome to EazyBank Prod related APIs"
+  contactDetails:
+    name: "Jonathan Mosh - Product Manager"
+    email: "jonathan.mosh@example.com"
+  onCallSupport:
+    - (+234) 702-111-2020
+    - (+234) 703-111-2020

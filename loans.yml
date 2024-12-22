@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+loans:
+  message: "Welcome to EazyBank Loans related local APIs"
+  contactDetails:
+    name: "Margaret Smith - Team Lead"
+    email: "margaret.smit@example.com"
+  onCallSupport:
+    - (+234) 802-1111-567
+    - (+234) 803-1111-456

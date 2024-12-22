@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+accounts:
+  message: "Welcome to EazyBank Accounts related local APIs"
+  contactDetails:
+    name: "John Doe - Developer"
+    email: "johndoe@example.com"
+  onCallSupport:
+    - (+234) 802-3333-567
+    - (+234) 803-4444-456

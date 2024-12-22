@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+loans:
+  message: "Welcome to EazyBank Loans related Prod APIs"
+  contactDetails:
+    name: "Daniel Wyse - Product Manager"
+    email: "daniel.wyse@example.com"
+  onCallSupport:
+    - (+234) 802-1111-567
+    - (+234) 803-1111-456

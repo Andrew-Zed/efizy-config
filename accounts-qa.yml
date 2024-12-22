@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+accounts:
+  message: "Welcome to EazyBank Accounts related QA APIs"
+  contactDetails:
+    name: "Paul Smith -  QA Lead"
+    email: "paul.smith@example.com"
+  onCallSupport:
+    - (+234) 802-3124-567
+    - (+234) 803-1111-456p

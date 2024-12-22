@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+cards:
+  message: "Welcome to EazyBank QA related APIs"
+  contactDetails:
+    name: "Janet Jackson - QA Lead"
+    email: "janet.jackson@eazybank.com"
+  onCallSupport:
+    - (+234) 802-222-1234
+    - (+234) 803-222-1234
