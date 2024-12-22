@@ -4,8 +4,8 @@ build:
 accounts:
   message: "Welcome to EazyBank Accounts related Prod APIs"
   contactDetails:
-    name: "Jane Doe - Team Lead"
-    email: "jane.doe@example.com"
+    name: "Andrew Zed - Product Owner"
+    email: "{cipher}11b98241ed298be44c2c644aeb6b22601ff853be7fab398f56ffff9a0638a41e706661aa4d756e35f16cb7fd299691a5"
   onCallSupport:
-    - (+234) 802-9999-567
-    - (+234) 803-9999-456
+    - (+234) 802-7777-567
+    - (+234) 803-7777-456
