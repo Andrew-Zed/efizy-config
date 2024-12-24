@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 cards:
-  message: "Welcome to EazyBank Production related APIs"
+  message: "Welcome to EazyBank Prod related APIs"
   contactDetails:
     name: "Jonathan Mosh - Product Manager"
     email: "jonathan.mosh@example.com"
