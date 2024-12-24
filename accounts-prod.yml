@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to EazyBank Accounts related Production APIs"
+  message: "Welcome to EazyBank Accounts related Prod APIs"
   contactDetails:
     name: "Andrew Zed - Product Owner"
     email: "{cipher}11b98241ed298be44c2c644aeb6b22601ff853be7fab398f56ffff9a0638a41e706661aa4d756e35f16cb7fd299691a5"
