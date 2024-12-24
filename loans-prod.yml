@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 loans:
-  message: "Welcome to EazyBank Loans related Prod APIs"
+  message: "Welcome to EazyBank Loans related Production APIs"
   contactDetails:
     name: "Daniel Wyse - Product Manager"
     email: "daniel.wyse@example.com"
